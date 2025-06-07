@@ -1,3 +1,4 @@
+//
 /*
  * This program demonstrates two functionalities:
  * 1. It defines a function `is_prime(int n)` to check if a given integer `n` is a prime number.
